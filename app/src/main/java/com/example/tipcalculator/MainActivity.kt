@@ -123,11 +123,6 @@ fun TipTimeLayout() {
     }
 }
 
-/**
- * Calculates the tip based on the user input and format the tip amount
- * according to the local currency.
- * Example would be "$10.00".
- */
 private fun calculateTip(
     amount: Double,
     tipPercent: Double = 15.0,
