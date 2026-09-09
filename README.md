@@ -2,8 +2,6 @@
 
 Petite application Android écrite en **Kotlin** avec **Jetpack Compose**. Elle calcule le pourboire à verser à partir d'un montant de facture et d'un pourcentage choisi par l'utilisateur.
 
-Projet réalisé dans le cadre du **Chapitre 8 : Développement d'applications mobiles** (Licence Professionnelle Réseaux et Génie Logiciel).
-
 ---
 
 ## 📱 Ce que fait l'application
